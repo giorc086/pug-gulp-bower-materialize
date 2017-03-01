@@ -1,0 +1,19 @@
+{
+  "name": "rss-feed",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Cecilia Giorcelli <giorcelceci@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ]
+}
